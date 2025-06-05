@@ -2,7 +2,7 @@
 
 namespace Arvore_AVL
 {
-    internal class ArvoreAVL
+    public class ArvoreAVL
     {
         public No Raiz;
 
