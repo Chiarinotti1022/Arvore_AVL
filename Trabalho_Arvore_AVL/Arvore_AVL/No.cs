@@ -2,7 +2,7 @@
 
 namespace Arvore_AVL
 {
-    internal class No
+    public class No
     {
         public int Valor;
         public No Esquerda;
