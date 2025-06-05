@@ -1,0 +1,14 @@
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.AssemblyInfoInputs.cache
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.AssemblyInfo.cs
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\bin\Debug\net9.0\Arvore_AVL.exe
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\bin\Debug\net9.0\Arvore_AVL.deps.json
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\bin\Debug\net9.0\Arvore_AVL.runtimeconfig.json
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\bin\Debug\net9.0\Arvore_AVL.dll
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\bin\Debug\net9.0\Arvore_AVL.pdb
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.dll
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\refint\Arvore_AVL.dll
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.pdb
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\Arvore_AVL.genruntimeconfig.cache
+C:\Users\Luiz Chiarinotti\Desktop\Faculdade\2025\1° Semestre\APOO\Trabalho_Arvore_AVL\Arvore_AVL\obj\Debug\net9.0\ref\Arvore_AVL.dll
