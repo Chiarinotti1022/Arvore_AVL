@@ -77,7 +77,7 @@ O programa imprime no console os resultados das operações, exemplo:
 Valor encontrado
 Valor não encontrado
 Fatores de balanceamento:
-Nó 10: Fator de balanceamento 1
+Nó 10: Fator de balanceamento 0
 Nó 15: Fator de balanceamento 0
 Nó 30: Fator de balanceamento 0
 Altura da árvore: 2
