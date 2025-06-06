@@ -30,7 +30,9 @@ O programa executa as seguintes operações na árvore AVL, de acordo com comand
 
 ### 🔗 Exemplo de Caminho Válido no Windows:
 
-```C:\Users\SeuUsuario\Documents\comandos.txt```
+```
+C:\Users\SeuUsuario\Documents\comandos.txt
+```
 
 ---
 
