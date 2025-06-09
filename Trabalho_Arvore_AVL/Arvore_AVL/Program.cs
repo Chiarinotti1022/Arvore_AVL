@@ -3,7 +3,7 @@ using Arvore_AVL;
 
 namespace Arvore_AVL
 {
-    public class Programa
+    public class Program
     {
         public static void Main()
         {
