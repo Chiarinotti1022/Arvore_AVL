@@ -65,22 +65,22 @@ namespace Arvore_AVL
 
             int balanceamento = ObterFatorBalanceamento(no);
 
-            // LL
+            // Esquerda Esquerda
             if (balanceamento > 1 && valor < no.Esquerda.Valor)
                 return RotacaoDireita(no);
 
-            // RR
+            // Direita Direita 
             if (balanceamento < -1 && valor > no.Direita.Valor)
                 return RotacaoEsquerda(no);
 
-            // LR
+            // Esquerda Direita 
             if (balanceamento > 1 && valor > no.Esquerda.Valor)
             {
                 no.Esquerda = RotacaoEsquerda(no.Esquerda);
                 return RotacaoDireita(no);
             }
 
-            // RL
+            // Direita Esquerda
             if (balanceamento < -1 && valor < no.Direita.Valor)
             {
                 no.Direita = RotacaoDireita(no.Direita);
@@ -153,22 +153,22 @@ namespace Arvore_AVL
 
             int balanceamento = ObterFatorBalanceamento(no);
 
-            // LL
+            // Esquerda Esquerda
             if (balanceamento > 1 && ObterFatorBalanceamento(no.Esquerda) >= 0)
                 return RotacaoDireita(no);
 
-            // LR
+            // Esquerda Direita 
             if (balanceamento > 1 && ObterFatorBalanceamento(no.Esquerda) < 0)
             {
                 no.Esquerda = RotacaoEsquerda(no.Esquerda);
                 return RotacaoDireita(no);
             }
 
-            // RR
+            // Direita Direita 
             if (balanceamento < -1 && ObterFatorBalanceamento(no.Direita) <= 0)
                 return RotacaoEsquerda(no);
 
-            // RL
+            // Direita Esquerda
             if (balanceamento < -1 && ObterFatorBalanceamento(no.Direita) > 0)
             {
                 no.Direita = RotacaoDireita(no.Direita);
