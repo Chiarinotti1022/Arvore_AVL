@@ -91,8 +91,9 @@ Altura da árvore: 2
 
 - ✔️ Projeto desenvolvido totalmente em **C#**, utilizando **Programação Orientada a Objetos (POO)**.
 - ✔️ O programa valida o caminho do arquivo antes de executar os comandos.
+- ✔️ **Programa feito em `.Net 9.0`.**
 - ✔️ **Todos os testes foram realizados e nenhum bug foi identificado até o momento.**
-
+  
 ---
 
 ## 💻 Como Executar
