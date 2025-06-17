@@ -106,4 +106,9 @@ Altura da árvore: 2
 
 ---
 
+## 👤 Integrantes
 
+- Luiz Chiarinotti 113079
+- Gabriel Marques Paulon 113142
+
+---
